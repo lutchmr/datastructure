@@ -6,7 +6,7 @@ class Factorial
     public static void MainDemo()
    {
       { int j ;
-      string val;
+      string? val= "";
       Console.WriteLine("enter an integer:"); 
       val = Console.ReadLine();
       int a = Convert.ToInt32(val);

@@ -1,21 +1,22 @@
-using System;
-namespace Conversion
-{
-    class Convert
+
+    class Convert1
     {
-        public static void Maindemo(string[] args)
+        public static void MainDemo(string[] args)
         {
            
             {
                 // declare variables
                 
-                decimal bottles;
-                decimal number;
-                Console.Write("Enter Number of Litres: ");      
-                number= decimal.Parse(Console.ReadLine());
-                bottles = (number / 5*10); 
-                Console.Write(number +"L water will fill "+ decimal.Truncate(bottles)+" bottles " +"("+ Math.Round((number-Math.Truncate(number)),2) +"L remaining)");
+        Decimal bottles=0.00M;
+        Decimal number=0.00M;
+        Console.Write("Enter Number of Litres: ");      
+   
+               
+        number = Convert.ToDecimal(Console.ReadLine());
+        bottles = (number / 5*10); 
+        Console.Write(number +"L water will fill "+ decimal.Truncate(bottles)
+        +" bottles " +"("+ Math.Round((number-Math.Truncate(number)),2) +"L remaining)");
+
             }
         }
     }
-}
