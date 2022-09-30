@@ -1,0 +1,17 @@
+C:\Users\lutchmr\dbprojects\obj\Debug\net6.0\dbprojects.csproj.AssemblyReference.cache
+C:\Users\lutchmr\dbprojects\obj\Debug\net6.0\dbprojects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lutchmr\dbprojects\obj\Debug\net6.0\dbprojects.AssemblyInfoInputs.cache
+C:\Users\lutchmr\dbprojects\obj\Debug\net6.0\dbprojects.AssemblyInfo.cs
+C:\Users\lutchmr\dbprojects\obj\Debug\net6.0\dbprojects.csproj.CoreCompileInputs.cache
+C:\Users\lutchmr\dbprojects\bin\Debug\net6.0\dbprojects.exe
+C:\Users\lutchmr\dbprojects\bin\Debug\net6.0\dbprojects.deps.json
+C:\Users\lutchmr\dbprojects\bin\Debug\net6.0\dbprojects.runtimeconfig.json
+C:\Users\lutchmr\dbprojects\bin\Debug\net6.0\dbprojects.dll
+C:\Users\lutchmr\dbprojects\bin\Debug\net6.0\dbprojects.pdb
+C:\Users\lutchmr\dbprojects\obj\Debug\net6.0\dbprojects.dll
+C:\Users\lutchmr\dbprojects\obj\Debug\net6.0\refint\dbprojects.dll
+C:\Users\lutchmr\dbprojects\obj\Debug\net6.0\dbprojects.pdb
+C:\Users\lutchmr\dbprojects\obj\Debug\net6.0\dbprojects.genruntimeconfig.cache
+C:\Users\lutchmr\dbprojects\obj\Debug\net6.0\ref\dbprojects.dll
+C:\Users\lutchmr\DBProjects\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\lutchmr\DBProjects\obj\Debug\net6.0\DBProjects.csproj.CopyComplete
