@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-class FactorialExample  
+class FactorialExamples  
    {  
      public static void MainDemo(string[] args)  
       {  
